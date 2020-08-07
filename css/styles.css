@@ -40,3 +40,12 @@ video {
 h3 {
   text-align: center;
 }
+
+.aboutMe {
+  font-size: larger;
+}
+
+.column {
+  float:left;
+  padding: 10px;
+}
