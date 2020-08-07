@@ -5,6 +5,7 @@
   background-repeat: no-repeat;
   color: white;
   font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif ;
 }
 
 body {
@@ -14,6 +15,7 @@ body {
 .card-text {
   color: black;
   text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .card-title {
@@ -35,6 +37,7 @@ video {
   text-align: center;
   font-size: 14px;
   font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h3 {
@@ -43,6 +46,7 @@ h3 {
 
 .aboutMe {
   font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .column {
