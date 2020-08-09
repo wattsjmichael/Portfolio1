@@ -54,6 +54,10 @@ h3 {
   padding: 25px;
 }
 
-.highlight {
-  font-weight: bold;
+#highlight {
+  font-weight: bolder;
+}
+
+#underline {
+  text-decoration:underline ;
 }
