@@ -1,8 +1,8 @@
 .header {
   padding: 80px;
-  text-align: left;
   background-image: url(../images/VRHeadset.jpg);
   background-repeat: no-repeat;
+  background-position: center;
   color: white;
   font-size: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif ;
